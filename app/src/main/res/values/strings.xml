@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UAS-Risman</string>
+    <string name="action_settings">Data peserta</string>
+    <string-array name="spin">
+        <item>Event</item>
+        <item>Workshop SQL Express</item>
+        <item>Web PHP</item>
+        <item>Java JFrame</item>
+        <item>Oracle</item>
+    </string-array>
+</resources>
